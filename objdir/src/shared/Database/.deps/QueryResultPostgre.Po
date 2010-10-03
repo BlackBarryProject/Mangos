@@ -1,0 +1,2 @@
+QueryResultPostgre.o:  \
+ ../../../../src/shared/Database/QueryResultPostgre.cpp
